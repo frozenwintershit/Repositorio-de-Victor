@@ -12,20 +12,29 @@ Soy un profesional en formación técnica intensiva enfocado en el ecosistema te
 
 ## Stack Técnico (Herramientas y Lenguajes)
 **Lenguajes:** Python (Nivel Intermedio).
+
 **Análisis de Datos:** Pandas, NumPy, SciPy (Inferencia estadística y limpieza de datos).
+
 **Visualización:** Matplotlib, Seaborn (Storytelling con datos).
+
 **Bases de Datos:** SQL y SQLite.
+
 **Gestión y Control:** Git, GitHub, y familiaridad con tableros Jira/Trello.
 
 ## Proyecto Destacado (Caso de Estudio)
 ### Análisis de Impacto Operacional: Soporte vs. Innovación
+
 **Descripción:** Investigación técnica sobre la degradación del rendimiento en un equipo de desarrollo durante el Q4 2025.
+
 **El Desafío:** Identificar la causa raíz de una caída del 50% en la entrega de proyectos estratégicos.
+
 **Solución:** Implementación de un pipeline en Python (Pandas/Matplotlib) para correlacionar el volumen de tickets de soporte con la capacidad de desarrollo.
+
 **Aprendizajes:** Optimización de la comunicación técnica y visualización de "puntos de saturación" para stakeholders.
+
 **Impacto:** Propuesta de una célula de mantenimiento que proyecta recuperar el 40% de la capacidad de innovación.
 
 ---
 **¿Cómo contactarme?**
-**LinkedIn:** [Enlace a tu perfil] 
-**Email:** [Tu correo electrónico] 
+**LinkedIn:** www.linkedin.com/in/víctor-nicolás-7aab9b294 
+**Email:** niko09.dr@gmail.com
